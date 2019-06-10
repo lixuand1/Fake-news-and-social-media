@@ -1,5 +1,11 @@
 # Fake-news-and-social-media
-Conventional Research Project submitted for the Computing Project (COMP90055 - 25 credit points) of Unimelb;
+Conventional Research Project submitted for the Computing Project (COMP90055 - 25 credit points) of Unimelb.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+In this project, machine learning methods and neural networks are trained to classify and analyze sentiment of fake and real news on social networks.
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 All the codes are in the code folder;
 
@@ -11,4 +17,4 @@ Harvester: harvester_fakenewsnet.py and harvester_credbank.py
 
 Python machine learning: ML_ver.py, including data-preprocessing, featrue selection, Naive Bayes model training, Decision Tree model training, Random Forest model training and sentimental analysis.
 
-Neural network model:
+Neural network model:BiLSTM.ipynb and Glove method:https://nlp.stanford.edu/projects/glove/
