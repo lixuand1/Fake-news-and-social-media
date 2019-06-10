@@ -18,3 +18,7 @@ Harvester: harvester_fakenewsnet.py and harvester_credbank.py
 Python machine learning: ML_ver.py, including data-preprocessing, featrue selection, Naive Bayes model training, Decision Tree model training, Random Forest model training and sentimental analysis.
 
 Neural network model:BiLSTM.ipynb and Glove method:https://nlp.stanford.edu/projects/glove/
+
+Sentimental analysis:Feature_Sentiment.ipynb which is used after all data being processed.
+
+Test data set process: Testset_Preprocessing.ipynb which is only for data pre-processing used for test data.
