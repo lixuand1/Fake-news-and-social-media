@@ -6,3 +6,9 @@ All the codes are in the code folder;
 The files in the relative path used in code are in the Desktop/dataset;
 
 All the datasets are in Desktop/dataset and we also provide dataset.zip for downloading easily.
+
+Harvester: harvester_fakenewsnet.py and harvester_credbank.py
+
+Python machine learning: ML_ver.py, including data-preprocessing, featrue selection, Naive Bayes model training, Decision Tree model training, Random Forest model training and sentimental analysis.
+
+Neural network model:
